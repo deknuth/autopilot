@@ -35,7 +35,8 @@ SOURCES += \
     src/crc.c \
     src/rtk.c \
     src/profile.c \
-    src/site.c
+    src/site.c \
+    src/cnn.c
 
 RESOURCES += qml.qrc
 
@@ -75,4 +76,5 @@ HEADERS += \
     inc/pool.h \
     inc/crc.h \
     inc/profile.h \
-    inc/site.h
+    inc/site.h \
+    inc/cnn.h
