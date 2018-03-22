@@ -1,0 +1,4 @@
+cd ~
+vi .bashrc
+export AT_PATH=~/autopilot/
+source .bashrc
